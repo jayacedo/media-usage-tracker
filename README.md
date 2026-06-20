@@ -1,6 +1,8 @@
 # Media Usage Tracker
 
-A WordPress plugin that helps administrators identify where media files are being used, detect unused files, and improve media quality.
+> A WordPress plugin that scans your media library, identifies where files are used, detects unused media, finds duplicates, and helps improve media quality.
+
+Media Usage Tracker helps WordPress administrators understand exactly how media files are being used across posts, pages, themes, and supported plugins. It identifies unused files, duplicate assets, and media quality issues to help optimize storage and improve site performance.
 
 ## Features
 
@@ -10,6 +12,14 @@ A WordPress plugin that helps administrators identify where media files are bein
 - AI-powered alt text generation
 - Media quality audits
 - Storage optimization recommendations
+
+## Installation
+
+1. Download the plugin ZIP file.
+2. Go to WordPress Admin → Plugins → Add New.
+3. Click Upload Plugin and select the ZIP file.
+4. Activate the plugin.
+5. Open Media Usage Tracker from the WordPress dashboard.
 
 ## How It Works
 
@@ -56,3 +66,18 @@ Clean up unused media and improve storage efficiency.
 ## License
 
 MIT License
+
+
+## Screenshots
+
+### Landing Page
+
+![Landing Page](assets/landing-page.png)
+
+### Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+### Media Quality Audit
+
+![Quality Audit](assets/quality-audit.png)
